@@ -73,7 +73,53 @@ body {
 	height: 360px;
 	width: 290px;
 	border: 5px solid gray;
-	margin-left: 240px;
+	margin-left: 222px;
+	background-color: #333333;
+}
+
+.the-dainty-daisy {
+	display: inline-block;
+	height: 360px;
+	width: 290px;
+	border: 5px solid gray;
+	margin-left: 40px;
+	background-color: #333333;
+}
+
+.the-double-trouble {
+	display: inline-block;
+	height: 360px;
+	width: 290px;
+	border: 5px solid gray;
+	margin-left: 40px;
+	background-color: #333333;
+}
+
+.the-whispering-wind {
+	display: inline-block;
+	height: 360px;
+	width: 290px;
+	border: 5px solid gray;
+	margin-top: 22px;
+	margin-left: 222px;
+	background-color: #333333;
+}
+
+.the-cunning-cutter {
+	display: inline-block;
+	height: 360px;
+	width: 290px;
+	border: 5px solid gray;
+	margin-left: 40px;
+	background-color: #333333;
+}
+
+.the-king-maker {
+	display: inline-block;
+	height: 360px;
+	width: 290px;
+	border: 5px solid gray;
+	margin-left: 40px;
 	background-color: #333333;
 }
 
@@ -81,7 +127,36 @@ body {
 	height: 250px;
 	width: 250px;
 	margin-left: 18px;
+}
 
+.the-dainty-daisy img{
+	height: 250px;
+	width: 250px;
+	margin-left: 20px;
+}
+
+.the-double-trouble img{
+	height: 250px;
+	width: 250px;
+	margin-left: 22px;
+}
+
+.the-whispering-wind img{
+	height: 250px;
+	width: 250px;
+	margin-left: 22px;
+}
+
+.the-cunning-cutter img{
+	height: 250px;
+	width: 250px;
+	margin-left: 20px;
+}
+
+.the-king-maker img{
+	height: 250px;
+	width: 250px;
+	margin-left: 22px;
 }
 
 .the-silent-night h4 {
@@ -92,16 +167,101 @@ body {
 	color: white;
 }
 
+.the-dainty-daisy h4 {
+	font-size: 16px;
+	padding-top: 8px;
+	margin: 6px;
+	text-align: center;
+	color: white;
+}
+
+.the-double-trouble h4 {
+	font-size: 16px;
+	padding-top: 8px;
+	margin: 6px;
+	text-align: center;
+	color: white;
+}
+
+.the-whispering-wind h4 {
+	font-size: 16px;
+	padding-top: 8px;
+	margin: 6px;
+	text-align: center;
+	color: white;
+}
+
+.the-cunning-cutter h4 {
+	font-size: 16px;
+	padding-top: 8px;
+	margin: 6px;
+	text-align: center;
+	color: white;
+}
+
+.the-king-maker h4 {
+	font-size: 16px;
+	padding-top: 8px;
+	margin: 6px;
+	text-align: center;
+	color: white;
+}
+
+
 .price-tag h5{
-	float: right;
-	background-color: white;
+	text-align: center;
+	color: white;
 	height: 14px;
 	padding: 4px;
 	margin: 2px 2px;
 }
 
+.price-tag2 h5{
+	text-align: center;
+	color: white;
+	height: 14px;
+	padding: 4px;
+	margin: 2px 2px;
+}
+
+.price-tag3 h5{
+	text-align: center;
+	color: white;
+	height: 14px;
+	padding: 4px;
+	margin: 2px 2px;
+}
+
+.price-tag4 h5{
+	text-align: center;
+	color: white;
+	height: 14px;
+	padding: 4px;
+	margin: 2px 2px;
+}
+
+.price-tag5 h5{
+	text-align: center;
+	color: white;
+	height: 14px;
+	padding: 4px;
+	margin: 2px 2px;
+}
+
+.price-tag6 h5{
+	text-align: center;
+	color: white;
+	height: 14px;
+	padding: 4px;
+	margin: 2px 2px;
+}
+
+
+
+
 .cta-button h4 {
 	background-color: #f6b26b;
+	color: #333333;
 }
 
 
