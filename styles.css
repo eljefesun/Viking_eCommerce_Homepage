@@ -5,21 +5,22 @@ body {
 .navbar-container {
 	width: auto;
 	padding: 25px 150px 25px 150px;
-	border-bottom: 1px solid gray;
+	border-bottom: 3px solid gray;
 }
 
 .navbar-container .viking-button{
 	display: inline-block;
+	float: left;
 }
 
 .navbar-container .cart-button{
-	display: inline-block;
 	float: right;
 }
 
 .cart-button h2{
 	vertical-align: middle;
 	display: inline-block;
+	padding-top: 8px;
 
 }
 .cart-button img{
@@ -29,7 +30,7 @@ body {
 }
 
 .main-content{
-	margin: 30px auto;
+	margin: 6px auto;
 }
 
 
@@ -38,7 +39,7 @@ body {
 	text-align: center;
 	padding-top: 12px;
 	color: white;
-	background-color: #7851a9;
+	background-color: #333333;
 }
 .front-banner img{
 	display: block;
@@ -60,4 +61,58 @@ body {
 	text-align: center;
 	padding-top: 12px;
 }
+
+.shopping-square-container {
+	width: auto;
+	height: auto;
+	padding-top: 12px;
+}
+
+.the-silent-night {
+	display: inline-block;
+	height: 360px;
+	width: 290px;
+	border: 5px solid gray;
+	margin-left: 240px;
+	background-color: #333333;
+}
+
+.the-silent-night img{
+	height: 250px;
+	width: 250px;
+	margin-left: 18px;
+
+}
+
+.the-silent-night h4 {
+	font-size: 16px;
+	padding-top: 8px;
+	margin: 6px;
+	text-align: center;
+	color: white;
+}
+
+.price-tag h5{
+	float: right;
+	background-color: white;
+	height: 14px;
+	padding: 4px;
+	margin: 2px 2px;
+}
+
+.cta-button h4 {
+	background-color: #f6b26b;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
