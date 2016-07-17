@@ -256,14 +256,59 @@ body {
 	margin: 2px 2px;
 }
 
-
-
-
 .cta-button h4 {
 	background-color: #f6b26b;
 	color: #333333;
 }
 
+.footer-container {
+	display: block;
+	width: auto;
+	padding: 25px;
+	background-color: #333333;
+}
+
+.footer-container .contact h2{
+	text-align: center;
+	width: 1425px;
+	color: #b36821;
+	padding-top: 8px;
+	font-size: 28px;
+}
+
+.phone-number h3{
+	color: white;
+	display: inline-block;
+	vertical-align: center;
+	padding: 12px 0 6px 6px;
+	margin-bottom: 5px;
+}
+
+.email-address h3{
+	color: white;
+	display: inline-block;
+	vertical-align: center;
+	padding: 12px 0 6px 6px;
+	margin-bottom: 5px;
+}
+
+.phone-number img{
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	vertical-align: center;
+	margin-left: 625px;
+	margin-top: 8px;
+}
+
+.email-address img{
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	vertical-align: center;
+	margin-left: 625px;
+	margin-top: 8px;
+}
 
 
 
