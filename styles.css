@@ -2,6 +2,11 @@ body {
 	font-family: fantasy, helvetica, sans-serif;
 }
 
+.header {
+	width:100%;
+}
+
+
 .navbar-container {
 	width: auto;
 	padding: 25px 150px 25px 150px;
@@ -31,6 +36,7 @@ body {
 
 .main-content{
 	margin: 6px auto;
+	width: 100%;
 }
 
 
@@ -63,8 +69,7 @@ body {
 }
 
 .shopping-square-container {
-	width: auto;
-	height: auto;
+	width: 100%;
 	padding-top: 12px;
 }
 
@@ -256,10 +261,19 @@ body {
 	margin: 2px 2px;
 }
 
-.cta-button h4 {
-	background-color: #f6b26b;
-	color: #333333;
+.cta-button{
+	text-align: center;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	border-width: 0 4px 4px 0;
 }
+
+.cta-button button{
+	background: #bca823;
+	color: #222;
+	font-family: fantasy;
+}
+
 
 .footer-container {
 	display: block;
@@ -310,8 +324,20 @@ body {
 	margin-top: 8px;
 }
 
+.pagination {
+	text-align: center;
+	vertical-align: baseline;
+	margin-top: 12px;
+}
 
+.pagination li {
+	display: inline-block;
+	padding: 12px;
+}
 
+.a {
+	background-color: transparent;
+}
 
 
 
